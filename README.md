@@ -1,14 +1,14 @@
-<!-- 🌌 Clean Animated Header -->
+<!-- ✨ Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Sargis!+👋;Full-Stack+Developer+|+Rust+|+Flutter+|+JS;Building+something+new+every+day+🚀" alt="Typing SVG">
 </h1>
 
-<!-- 🌈 Smooth gradient banner -->
+<!-- 🌈 Smooth Gradient Banner (fixed W cut issue) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F0FF,100:8A2BE2&text=Welcome%20to%20my%20digital%20world!%20🌌&fontColor=ffffff&fontAlign=50&fontAlignY=40&descAlignY=65" alt="header wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F0FF,100:8A2BE2&text=Welcome%20to%20my%20digital%20world!%20🌌&fontColor=ffffff&fontAlign=50&fontAlignY=40&descAlignY=65&fontAlignX=25&textBg=true" alt="header wave">
 </p>
 
-<!-- 💻 Coding animation -->
+<!-- 💻 Coding Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding animation">
 </p>
