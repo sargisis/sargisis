@@ -38,7 +38,7 @@
 | [**Photo_EDIT**](https://github.com/sargisis/Photo_EDIT) | Simple photo editor | HTML + JS |
 | [**Rbac-System**](https://github.com/sargisis/Rbac-System) | Role-based access control | JavaScript |
 | [**FitLog**](https://github.com/sargisis/FitLog) | Fitness tracker | JavaScript |
-| [**Rust Experiments**](https://github.com/sargisis) | Learning ownership, memory and concurrency | Rust + C++ |
+| [**Rust Experiments**](https://github.com/sargisis/Rust_Lessons) | Learning ownership, memory | Rust |
 
 ---
 
