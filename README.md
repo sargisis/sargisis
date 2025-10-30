@@ -1,19 +1,23 @@
-<!-- ✨ Animated Header -->
+<!-- 💫 Animated Cyber Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Sargis!+👋;Full-Stack+Developer+|+Rust+|+Flutter+|+JS;Building+something+new+every+day+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00EFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Sargis!+👋;Full-Stack+Developer+⚙️;Rust+%7C+Flutter+%7C+JavaScript+%7C+C++;Building+cool+things+every+day+🚀" alt="Typing SVG" />
 </h1>
 
-
+<!-- 🧠 Header Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=120&section=header&text=Welcome%20to%20my%20digital%20world!%20🌌&fontColor=FFFFFF&fontSize=28&fontAlignY=35&animation=twinkling" />
+</p>
 
 <!-- 💻 Coding Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding animation">
 </p>
+
 ---
 
 ### 🧠 About Me  
 💻 Passionate about **system-level programming**, **backend design**, and **creative tech projects**.  
-🦀 Currently mastering **Rust** and exploring **OS-level development**.  
+🦀 Currently mastering **Rust** and exploring **OS development**.  
 📱 Also building with **Flutter**, **React**, and **Node.js**.  
 
 ---
@@ -49,12 +53,12 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sargisis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sargisis&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sargisis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sargisis&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sargisis&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sargisis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -62,7 +66,6 @@
 ### ✨ Fun Zone  
 
 > 🧩 “Code is like art — every line tells a story.”  
-
 🎶 Currently coding to: *Lo-Fi + Synthwave vibes* 🎧  
 ⚡ Favorite stack: *Rust + Flutter + Node.js*  
 
@@ -78,7 +81,7 @@
 
 ---
 
-### 💫 Dynamic Motion  
+### 🏆 Achievements & Motion  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sargisis&theme=onedark&column=6&margin-w=10&margin-h=10" />
@@ -86,4 +89,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<!-- 🌈 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=footer&animation=twinkling" />
 </p>
