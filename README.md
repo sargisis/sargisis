@@ -1,46 +1,38 @@
 <h1 align="center">
-  Hey, I'm Sargis! 👋 | System and Backend Developer ⚙️ | Rust | C++ | C | JavaScript | Building cool things every day 🚀
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00EFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Sargis!+👋;System+and+Backend+Developer+⚙️;Rust+%7C+C%2B%2B+%7C+C+%7C+JavaScript;Building+cool+things+every+day+🚀" 
+       alt="Typing SVG" style="pointer-events:none; user-select:none;" /></a>
 </h1>
+
 <p align="center">
-  [Animated Header SVG Link: (Не кликабелен)]
-  <br>
-  (https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00EFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Sargis!+👋;System+and+Backend+Developer+⚙️;Rust+%7C+C%2B%2B+%7C+C+%7C+JavaScript;Building+cool+things+every+day+🚀)
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=120&section=header&text=Welcome%20to%20my%20digital%20world!%20🌌&fontColor=FFFFFF&fontSize=28&fontAlignY=35&animation=twinkling" 
+       alt="header wave" style="pointer-events:none; user-select:none;" /></a>
 </p>
 
 <p align="center">
-  Welcome to my digital world! 🌌
-  <br>
-  [Header Wave Link: (Не кликабелен)]
-  <br>
-  (https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=120&section=header&text=Welcome%20to%20my%20digital%20world!%20%F0%9F%8C%8C&fontColor=FFFFFF&fontSize=28&fontAlignY=35&animation=twinkling)
-</p>
-
-<p align="center">
-  [Coding Animation GIF Link: (Не кликабелен)]
-  <br>
-  (https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  <a href="#"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       width="480" alt="Coding animation" style="pointer-events:none; user-select:none; border-radius:12px;" /></a>
 </p>
 
 ---
 
-### 🧠 About Me
-💻 Passionate about **system-level programming**, **backend design**, and **creative tech projects**.
-🦀 Currently mastering **Rust**, **C++**, and **C**, focusing on **OS and embedded systems**.
-🌐 Experienced with **JavaScript** for UI & API development.
+### 🧠 About Me  
+💻 Passionate about **system-level programming**, **backend design**, and **creative tech projects**.  
+🦀 Currently mastering **Rust**, **C++**, and **C**, focusing on **OS and embedded systems**.  
+🌐 Experienced with **JavaScript** for UI & API development.  
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack  
 
 <p align="center">
-  [Tech Stack Icons Link: (Не кликабелен)]
-  <br>
-  (https://skillicons.dev/icons?i=rust,cpp,c,js,nodejs,react,vite,python,git,linux&perline=6)
+  <a href="#"><img src="https://skillicons.dev/icons?i=rust,cpp,c,js,nodejs,react,vite,python,git,linux&perline=6" 
+       alt="Tech stack icons" style="pointer-events:none; user-select:none;" /></a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects  
+
 | 🔥 Project | 💬 Description | 🧠 Stack |
 |-------------|----------------|----------|
 | [**Weather_App**](https://github.com/sargisis/Weather_App) | Real-time weather dashboard | JavaScript |
@@ -51,69 +43,61 @@
 
 ---
 
-### 💡 Current Focus
+### 💡 Current Focus  
 
-🦀 Deep-diving into **Rust memory**, **concurrency**, and **systems programming**
-⚙️ Designing **low-level backends** and **custom OS tools**
-🧠 Exploring **cross-language integration** between Rust, C, and C++
+🦀 Deep-diving into **Rust memory**, **concurrency**, and **systems programming**  
+⚙️ Designing **low-level backends** and **custom OS tools**  
+🧠 Exploring **cross-language integration** between Rust, C, and C++  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <div align="center">
-  **GitHub Stats**
-  <br>
-  (https://github-readme-stats.vercel.app/api?username=sargisis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  <br>
-  **GitHub Streak**
-  <br>
-  (https://github-readme-streak-stats.herokuapp.com/?user=sargisis&theme=tokyonight&hide_border=true)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sargisis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+       height="170" alt="GitHub Stats" style="pointer-events:none; user-select:none;" /></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sargisis&theme=tokyonight&hide_border=true" 
+       height="170" alt="GitHub Streak" style="pointer-events:none; user-select:none;" /></a>
 </div>
 
 <div align="center">
-  **Top Languages**
-  <br>
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=sargisis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sargisis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+       alt="Top Languages" style="pointer-events:none; user-select:none;" /></a>
 </div>
 
 ---
 
-### ✨ Fun Zone
+### ✨ Fun Zone  
 
-> 🧩 “Code is like art — every line tells a story.”
-🎶 Currently coding to: *Lo-Fi + Synthwave vibes* 🎧
-⚡ Favorite stack: *Rust + C++ + C + Node.js*
-
----
-
-### 🌍 Connect With Me
-<p align="center">
-  [Gmail](mailto:abgaryansargis09@gmail.com)
-  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-  [LinkedIn](https://www.linkedin.com/in/sargis-abgaryan-a622952b0/)
-  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-  [GitHub](https://github.com/sargisis)
-</p>
+> 🧩 “Code is like art — every line tells a story.”  
+🎶 Currently coding to: *Lo-Fi + Synthwave vibes* 🎧  
+⚡ Favorite stack: *Rust + C++ + C + Node.js*  
 
 ---
 
-### 🏆 Achievements & Motion
+### 🌍 Connect With Me  
 
 <p align="center">
-  [GitHub Trophies Link: (Не кликабелен)]
-  <br>
-  (https://github-profile-trophy.vercel.app/?username=sargisis&theme=onedark&column=6&margin-w=10&margin-h=10)
+    <a href="mailto:abgaryansargis09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sargis-abgaryan-a622952b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sargisis"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🏆 Achievements & Motion  
+
+<p align="center">
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=sargisis&theme=onedark&column=6&margin-w=10&margin-h=10" 
+       alt="GitHub Trophies" style="pointer-events:none; user-select:none;" /></a>
 </p>
 
 <p align="center">
-  [Snake Animation Link: (Не кликабелен)]
-  <br>
-  (https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  <a href="#"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
+       alt="Snake animation" style="pointer-events:none; user-select:none;" /></a>
 </p>
 
 <p align="center">
-  [Footer Wave Link: (Не кликабелен)]
-  <br>
-  (https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=footer&animation=twinkling)
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=footer&animation=twinkling" 
+       alt="footer wave" style="pointer-events:none; user-select:none;" /></a>
 </p>
