@@ -1,6 +1,6 @@
 <!-- 💫 Animated Cyber Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00EFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Sargis!+👋;Full-Stack+Developer+⚙️;Rust+%7C+Flutter+%7C+JavaScript+%7C+C++;Building+cool+things+every+day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00EFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Sargis!+👋;System+and+Backend+Developer+⚙️;Rust+%7C+C%2B%2B+%7C+C+%7C+JavaScript;Building+cool+things+every+day+🚀" alt="Typing SVG" />
 </h1>
 
 <!-- 🧠 Header Wave -->
@@ -17,15 +17,15 @@
 
 ### 🧠 About Me  
 💻 Passionate about **system-level programming**, **backend design**, and **creative tech projects**.  
-🦀 Currently mastering **Rust** and exploring **OS development**.  
-📱 Also building with **Flutter**, **React**, and **Node.js**.  
+🦀 Currently mastering **Rust**, **C++**, and **C**, focusing on **OS and embedded systems**.  
+🌐 Experienced with **JavaScript** for UI & API development.  
 
 ---
 
 ### ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,flutter,dart,cpp,qt,js,react,nodejs,vite,python,git,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp,c,js,nodejs,react,vite,python,git,linux&perline=6" />
 </p>
 
 ---
@@ -37,16 +37,16 @@
 | [**Weather_App**](https://github.com/sargisis/Weather_App) | Real-time weather dashboard | JavaScript |
 | [**Photo_EDIT**](https://github.com/sargisis/Photo_EDIT) | Simple photo editor | HTML + JS |
 | [**Rbac-System**](https://github.com/sargisis/Rbac-System) | Role-based access control | JavaScript |
-| [**alarm_app**](https://github.com/sargisis/alarm_app) | Alarm & timer app | Flutter |
 | [**FitLog**](https://github.com/sargisis/FitLog) | Fitness tracker | JavaScript |
+| [**Rust Experiments**](https://github.com/sargisis) | Learning ownership, memory and concurrency | Rust + C++ |
 
 ---
 
 ### 💡 Current Focus  
 
-🦀 Deep-diving into **Rust memory & concurrency**  
-⚙️ Building **system-level tools** and **backend APIs**  
-☁️ Learning **infrastructure & deployment**  
+🦀 Deep-diving into **Rust memory**, **concurrency**, and **systems programming**  
+⚙️ Designing **low-level backends** and **custom OS tools**  
+🧠 Exploring **cross-language integration** between Rust, C, and C++  
 
 ---
 
@@ -67,7 +67,7 @@
 
 > 🧩 “Code is like art — every line tells a story.”  
 🎶 Currently coding to: *Lo-Fi + Synthwave vibes* 🎧  
-⚡ Favorite stack: *Rust + Flutter + Node.js*  
+⚡ Favorite stack: *Rust + C++ + C + Node.js*  
 
 ---
 
