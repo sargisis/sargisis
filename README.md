@@ -34,7 +34,7 @@
 
 | 🔥 Project | 💬 Description | 🧠 Stack |
 |-------------|----------------|----------|
-| [**Weather_App**](https://github.com/sargisis/Weather_App) | Real-time weather dashboard | JavaScript |
+| [**Weather_App**](https://github.com/sargisis/Weather) | Real-time weather dashboard | C++ | QT |
 | [**Photo_EDIT**](https://github.com/sargisis/Photo_EDIT) | Simple photo editor | HTML + JS |
 | [**Rbac-System**](https://github.com/sargisis/Rbac-System) | Role-based access control | JavaScript |
 | [**FitLog**](https://github.com/sargisis/FitLog) | Fitness tracker | JavaScript |
