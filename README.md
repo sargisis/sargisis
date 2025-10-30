@@ -1,42 +1,83 @@
-# 👋 Hey, I'm Sargis
-
-🎯 **Full-stack Developer | Rust Enthusiast | Flutter & JS Builder**  
-💻 Passionate about system-level programming, backend design, and creative projects.
-
----
-
-### 🚀 My Tech Stack
-🦀 **Rust** | 💙 **Dart / Flutter** | ⚙️ **C++ / Qt**  
-🟨 **JavaScript / Node.js** | 🌐 **React / Vite** | 🐍 **Python (utility scripts)**  
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1AF7EA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sargis!+👋;Full-Stack+Developer+%7C+Rust+%7C+Flutter+%7C+JS;Building+something+new+every+day+🚀" alt="Typing SVG" />
+</h1>
 
 ---
 
-### 🧩 Featured Projects
-- 🧠 [**Weather_App**](https://github.com/sargisis/Weather_App) — Weather dashboard built with JS  
-- 📸 [**Photo_EDIT**](https://github.com/sargisis/Photo_EDIT) — Simple photo editor (HTML + JS)  
-- 🔐 [**Rbac-System**](https://github.com/sargisis/Rbac-System) — Role-based access control  
-- 🧰 [**alarm_app**](https://github.com/sargisis/alarm_app) — Flutter alarm app  
-- 🏋️ [**FitLog**](https://github.com/sargisis/FitLog) — Fitness tracker  
+### 🧠 About Me  
+💻 Passionate about **system-level programming**, **backend design**, and **creative tech projects**.  
+🦀 Currently mastering **Rust** and exploring **OS-level development**.  
+📱 Also building with **Flutter**, **React**, and **Node.js**.  
 
 ---
 
-### 🧠 Current Focus
-- 🦀 Mastering **Rust** (memory, ownership, OS-level projects)
-- ⚙️ Building system apps and APIs  
-- ☁️ Learning backend architecture  
+### ⚙️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,flutter,dart,cpp,qt,js,react,nodejs,vite,python,git,linux&perline=6" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects  
 
-![Sargis's GitHub stats](https://github-readme-stats.vercel.app/api?username=sargisis&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sargisis&layout=compact&theme=tokyonight&hide_border=true)
+| 🔥 Project | 💬 Description | 🧠 Stack |
+|-------------|----------------|----------|
+| [**Weather_App**](https://github.com/sargisis/Weather_App) | Real-time weather dashboard | JavaScript |
+| [**Photo_EDIT**](https://github.com/sargisis/Photo_EDIT) | Simple photo editor | HTML + JS |
+| [**Rbac-System**](https://github.com/sargisis/Rbac-System) | Role-based access control | JavaScript |
+| [**alarm_app**](https://github.com/sargisis/alarm_app) | Alarm & timer app | Flutter |
+| [**FitLog**](https://github.com/sargisis/FitLog) | Fitness tracker | JavaScript |
 
 ---
 
-### 🧩 Fun Fact
-> “Code is like art — every line tells a story.”
+### 💡 Current Focus  
 
-📫 **Reach me:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abgaryansargis09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sargis-abgaryan-a622952b0/)
+🦀 Deep-diving into **Rust memory & concurrency**  
+⚙️ Building **system-level tools** and **backend APIs**  
+☁️ Learning **infrastructure & deployment**  
+
+---
+
+### 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sargisis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sargisis&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sargisis&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### ✨ Fun Zone  
+
+> 🧩 “Code is like art — every line tells a story.”  
+
+🎶 Currently coding to: *Lo-Fi + Synthwave vibes* 🎧  
+⚡ Favorite stack: *Rust + Flutter + Node.js*  
+
+---
+
+### 🌍 Connect With Me  
+
+<p align="center">
+  <a href="mailto:abgaryansargis09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sargis-abgaryan-a622952b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sargisis"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 💫 Dynamic Motion  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sargisis&theme=onedark&column=6&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
