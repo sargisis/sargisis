@@ -1,7 +1,16 @@
-<!-- Animated Header -->
+<!-- 💫 Animated Cyber Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1AF7EA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sargis!+👋;Full-Stack+Developer+%7C+Rust+%7C+Flutter+%7C+JS;Building+something+new+every+day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Sargis+👋;💻+Full-Stack+Developer+%7C+Rust+%7C+Flutter+%7C+JS;🚀+Creating+smart+systems+and+cool+tech+daily" alt="Typing SVG" />
 </h1>
+
+<!-- 🪩 Animated gradient line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1AF7EA,100:8A2BE2&text=Welcome%20to%20my%20digital%20world!%20🌌&fontColor=ffffff&fontAlign=50&fontAlignY=40&descAlignY=65" alt="header wave"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding gif">
+</p>
 
 ---
 
