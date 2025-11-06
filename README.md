@@ -11,7 +11,7 @@
  <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
        width="480" alt="Coding animation" style="pointer-events:none; user-select:none; border-radius:12px;" /></a>
-</p> -->
+</p> 
 
 ---
 
