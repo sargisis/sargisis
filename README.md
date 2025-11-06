@@ -8,7 +8,7 @@
        alt="header wave" style="pointer-events:none; user-select:none;" /></a>
 </p>
 
-<!-- <p align="center">
+ <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
        width="480" alt="Coding animation" style="pointer-events:none; user-select:none; border-radius:12px;" /></a>
 </p> -->
@@ -56,9 +56,10 @@
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sargisis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
        height="170" alt="GitHub Stats" style="pointer-events:none; user-select:none;" /></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sargisis&theme=tokyonight&hide_border=true" 
+  <!-- <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sargisis&theme=tokyonight&hide_border=true" 
        height="170" alt="GitHub Streak" style="pointer-events:none; user-select:none;" /></a>
-</div>
+  
+</div> -->
 
 <!-- <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sargisis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
