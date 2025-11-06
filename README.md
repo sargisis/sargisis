@@ -60,10 +60,10 @@
        height="170" alt="GitHub Streak" style="pointer-events:none; user-select:none;" /></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sargisis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
        alt="Top Languages" style="pointer-events:none; user-select:none;" /></a>
-</div>
+</div> -->
 
 ---
 
