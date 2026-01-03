@@ -15,27 +15,8 @@ I am passionate about technology and high-performance engineering, with a keen i
 * ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript**: Creating robust, type-safe applications and bridging the gap between systems and web.
 * ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) **Rust**: Exploring memory safety and performance for system-level components.
 * ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **C++**: Keeping my low-level roots strong for high-performance computing.
-* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) **PostgreSQL**: My go-to database for its reliability and complex querying capabilities.
+* ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **MongoDB**: My preferred database for handling flexible data schemas and rapid scaling.
 * ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker**: For containerizing applications and ensuring consistent deployment environments.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| [**Weather_App**](https://github.com/sargisis/Weather) | Real-time weather dashboard | `C++` `QT` |
-| [**Photo_EDIT**](https://github.com/sargisis/Photo_EDIT) | Simple photo editor | `HTML` `JS` |
-| [**Rbac-System**](https://github.com/sargisis/Rbac-System) | Role-based access control | `Node.js` `TS` |
-| [**FitLog**](https://github.com/sargisis/FitLog) | Fitness tracker | `TypeScript` |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sargisis&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150" />
-</p>
 
 ---
 
