@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm @sargisis 👋</h1>
 
 <p align="center">
-  <b>Backend & Systems Engineer</b><br>
-  Building scalable solutions with Go, TypeScript, and Rust.
+    Welcome to my GitHub account!
 </p>
 
 ---
