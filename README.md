@@ -1,12 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Sargis%20Abgaryan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=cfcfcf" width="100%"/>
-
-<a href="https://t.me/sargisis"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://www.linkedin.com/in/sargis-abgaryan-a622952b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abgaryansargis09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-
-</div>
 
 <br/>
 
