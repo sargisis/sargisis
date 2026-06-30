@@ -43,8 +43,6 @@ philosophy: keyboard-driven, minimal, fast
 ### 🦀 MSV
 Custom compiled programming language. C++ core, progressively rewritten in **Rust** (interpreter, stdlib, CLI, package manager) via FFI.
 
-[`github.com/sargisis/MSV`](https://github.com/sargisis/MSV)
-
 </td>
 <td width="50%" valign="top">
 
