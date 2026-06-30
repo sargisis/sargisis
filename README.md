@@ -1,4 +1,7 @@
+
+
 <br/
+
 ## ⚡ About
 
 Solo developer based in Yerevan, working across **systems programming**, **backend**, and **mobile**. Deep interest in OS internals, schedulers, and performance-critical code.
