@@ -1,63 +1,93 @@
 <div align="center">
 
-# Sargis Abgaryan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Sargis%20Abgaryan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=cfcfcf" width="100%"/>
 
-**Backend & Systems Engineer** — Rust · C++ · Go · low-level & distributed systems
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sargisis)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sargis-abgaryan-a622952b0/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abgaryansargis09@gmail.com)
+<a href="https://t.me/sargisis"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.linkedin.com/in/sargis-abgaryan-a622952b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:abgaryansargis09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
 
----
+<br/>
 
-### About
+## ⚡ About
 
-Solo developer based in Yerevan, working across systems programming, backend, and mobile. Interested in OS internals, schedulers, and performance-critical code — currently building a Linux userspace process scheduler on `sched_ext`/`aya`, and incrementally rewriting parts of my own language, **MSV**, from C++ into Rust via FFI.
+Solo developer based in Yerevan, working across **systems programming**, **backend**, and **mobile**. Deep interest in OS internals, schedulers, and performance-critical code.
 
-- 🦀 Rust for systems-level and performance-critical work
-- 🐧 Daily driver: Fedora / Ubuntu (Hyprland)
-- 🛠️ Building backend infra for Armenian civic & fintech projects (Go, PostgreSQL, React)
+```yaml
+current_focus:
+  - Linux userspace process scheduler (sched_ext + aya, Rust)
+  - MSV: rewriting interpreter/stdlib/CLI from C++ to Rust via FFI
+daily_driver:
+  os: Arch Linux
+  wm: Hyprland
+philosophy: keyboard-driven, minimal, fast
+```
 
----
+<br/>
 
-### Tech Stack
-
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Backend / Web** | ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square) ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Infra / Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Other** | Unreal Engine 5 · eBPF/`sched_ext` |
-
----
-
-### Featured Projects
-
-#### 🦀 MSV
-A custom compiled programming language. Core interpreter and runtime in C++, currently being progressively rewritten in Rust (interpreter, stdlib, CLI, package manager) via FFI, keeping the performance-critical C++ core.
-→ [`github.com/sargisis/MSV`](https://github.com/sargisis/MSV)
-
-#### 🚍 Argo / Nyro Transit
-Real-time public transport tracking for Yerevan. Backend in Rust (Axum) and C++, React Native client, WebSockets for live updates, and a custom Contraction Hierarchies routing engine for fast pathfinding over the city graph.
-
-#### 💳 Nyro Payments
-A payment processing platform for Armenia — React 19 + Vite + Tailwind frontend, Go (Gin) backend, PostgreSQL, Firebase Auth, with a dashboard and API key management.
-
-#### 🏙️ CitySignal
-A civic issue-reporting platform for Armenian municipalities, modeled on the US 311 system. Built with multilingual support (Armenian, Russian, English).
-
----
-
-### GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sargisis&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sargis's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sargisis&theme=dark&hide_border=true" alt="Sargis's Streak" height="165" />
+
+<img src="https://skillicons.dev/icons?i=rust,cpp,go,py,ts,react,docker,linux,git,postgres,mongodb&theme=dark" />
+
 </div>
 
+<br/>
+
+**Primary:** ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Also using:** Python · TypeScript · React / React Native · Axum · Gin · PostgreSQL · MongoDB · Docker · eBPF
+
+<br/>
+
+## 📁 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🦀 MSV
+Custom compiled programming language. C++ core, progressively rewritten in **Rust** (interpreter, stdlib, CLI, package manager) via FFI.
+
+[`github.com/sargisis/MSV`](https://github.com/sargisis/MSV)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚍 Argo / Nyro Transit
+Real-time public transport tracking for Yerevan. **Rust (Axum)** + C++ backend, React Native client, WebSockets, custom Contraction Hierarchies routing engine.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Nyro Payments
+Payment processing platform for Armenia. React 19 + Vite + Tailwind, **Go (Gin)** backend, PostgreSQL, Firebase Auth.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ CitySignal
+Civic issue-reporting platform for Armenian municipalities, modeled on the US 311 system. Multilingual: AM / RU / EN.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sargisis&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=sargisis&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sargisis&theme=radical&hide_border=true&background=0d1117" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sargisis&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=100&section=footer" width="100%"/>
